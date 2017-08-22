@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+
+h1,h2,h3,h4{
+
+    margin: 1.5% auto;
+    width: 70%;
+    text-align: center;
+
+}
+
+.indexCenter{
+    margin-top: 10%;
+    
+    width: 20%;
+    display: none;
+}
